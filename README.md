@@ -7,7 +7,6 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) of an Empl
 Through statistical analysis and visualization techniques, this project uncovers patterns that help understand employee wellness and its potential association with salary distribution.
 
 ---
-
 ## 🎯 Objectives
 
 - Analyze employee demographic information.
